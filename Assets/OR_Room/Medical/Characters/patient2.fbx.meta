@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: cc0db6acacbb91f4bb8f2d098d60c5dc
+timeCreated: 1507405573
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Head
+    100004: Head_end
+    100006: Hips
+    100008: LeftArm
+    100010: LeftFoot
+    100012: LeftFoot_end
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandIndex1
+    100020: LeftHandIndex2
+    100022: LeftHandIndex3
+    100024: LeftHandIndex3_end
+    100026: LeftHandThumb1
+    100028: LeftHandThumb2
+    100030: LeftHandThumb3
+    100032: LeftHandThumb3_end
+    100034: LeftLeg
+    100036: LeftShoulder
+    100038: LeftUpLeg
+    100040: Neck
+    100042: Patient
+    100044: //RootNode
+    100046: Reference
+    100048: RightArm
+    100050: RightFoot
+    100052: RightFoot_end
+    100054: RightForeArm
+    100056: RightHand
+    100058: RightHandIndex1
+    100060: RightHandIndex2
+    100062: RightHandIndex3
+    100064: RightHandIndex3_end
+    100066: RightHandThumb1
+    100068: RightHandThumb2
+    100070: RightHandThumb3
+    100072: RightHandThumb3_end
+    100074: RightLeg
+    100076: RightShoulder
+    100078: RightUpLeg
+    100080: Spine
+    100082: Spine1
+    100084: Spine2
+    100086: Util
+    100088: Util_end
+    100090: Head_end_end
+    100092: LeftFoot_end_end
+    100094: LeftHandIndex3_end_end
+    100096: LeftHandThumb3_end_end
+    100098: Patient.001
+    100100: RightFoot_end_end
+    100102: RightHandIndex3_end_end
+    100104: RightHandThumb3_end_end
+    100106: Util_end_end
+    100108: Head_end_end_end
+    100110: LeftFoot_end_end_end
+    100112: LeftHandIndex3_end_end_end
+    100114: LeftHandThumb3_end_end_end
+    100116: RightFoot_end_end_end
+    100118: RightHandIndex3_end_end_end
+    100120: RightHandThumb3_end_end_end
+    100122: Util_end_end_end
+    400000: Armature
+    400002: Head
+    400004: Head_end
+    400006: Hips
+    400008: LeftArm
+    400010: LeftFoot
+    400012: LeftFoot_end
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandIndex1
+    400020: LeftHandIndex2
+    400022: LeftHandIndex3
+    400024: LeftHandIndex3_end
+    400026: LeftHandThumb1
+    400028: LeftHandThumb2
+    400030: LeftHandThumb3
+    400032: LeftHandThumb3_end
+    400034: LeftLeg
+    400036: LeftShoulder
+    400038: LeftUpLeg
+    400040: Neck
+    400042: Patient
+    400044: //RootNode
+    400046: Reference
+    400048: RightArm
+    400050: RightFoot
+    400052: RightFoot_end
+    400054: RightForeArm
+    400056: RightHand
+    400058: RightHandIndex1
+    400060: RightHandIndex2
+    400062: RightHandIndex3
+    400064: RightHandIndex3_end
+    400066: RightHandThumb1
+    400068: RightHandThumb2
+    400070: RightHandThumb3
+    400072: RightHandThumb3_end
+    400074: RightLeg
+    400076: RightShoulder
+    400078: RightUpLeg
+    400080: Spine
+    400082: Spine1
+    400084: Spine2
+    400086: Util
+    400088: Util_end
+    400090: Head_end_end
+    400092: LeftFoot_end_end
+    400094: LeftHandIndex3_end_end
+    400096: LeftHandThumb3_end_end
+    400098: Patient.001
+    400100: RightFoot_end_end
+    400102: RightHandIndex3_end_end
+    400104: RightHandThumb3_end_end
+    400106: Util_end_end
+    400108: Head_end_end_end
+    400110: LeftFoot_end_end_end
+    400112: LeftHandIndex3_end_end_end
+    400114: LeftHandThumb3_end_end_end
+    400116: RightFoot_end_end_end
+    400118: RightHandIndex3_end_end_end
+    400120: RightHandThumb3_end_end_end
+    400122: Util_end_end_end
+    4300000: Patient
+    4300002: Patient.001
+    9500000: //RootNode
+    13700000: Patient
+    13700002: Patient.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
