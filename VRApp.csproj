@@ -122,6 +122,7 @@
     <Compile Include="Assets\OR_Room\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
     <Compile Include="Assets\OR_Room\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\OR_Room\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
+    <Compile Include="Assets\OR_Room\Standard Assets\Scripts\SimpleAnimController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\OR_Room\Medical\Characters\Animation\Player_Anims.txt" />

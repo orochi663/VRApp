@@ -67,6 +67,23 @@ ModelImporter:
     100118: RightHandIndex3_end_end_end
     100120: RightHandThumb3_end_end_end
     100122: Util_end_end_end
+    100124: Head_end_end_end_end
+    100126: LeftFoot_end_end_end_end
+    100128: LeftHandIndex3_end_end_end_end
+    100130: LeftHandThumb3_end_end_end_end
+    100132: RightFoot_end_end_end_end
+    100134: RightHandIndex3_end_end_end_end
+    100136: RightHandThumb3_end_end_end_end
+    100138: Util_end_end_end_end
+    100140: Head_end_end_end_end_end
+    100142: LeftFoot_end_end_end_end_end
+    100144: LeftHandIndex3_end_end_end_end_end
+    100146: LeftHandThumb3_end_end_end_end_end
+    100148: RightFoot_end_end_end_end_end
+    100150: RightHandIndex3_end_end_end_end_end
+    100152: RightHandThumb3_end_end_end_end_end
+    100154: Util_end_end_end_end_end
+    100156: Patient.002
     400000: Armature
     400002: Head
     400004: Head_end
@@ -129,11 +146,30 @@ ModelImporter:
     400118: RightHandIndex3_end_end_end
     400120: RightHandThumb3_end_end_end
     400122: Util_end_end_end
+    400124: Head_end_end_end_end
+    400126: LeftFoot_end_end_end_end
+    400128: LeftHandIndex3_end_end_end_end
+    400130: LeftHandThumb3_end_end_end_end
+    400132: RightFoot_end_end_end_end
+    400134: RightHandIndex3_end_end_end_end
+    400136: RightHandThumb3_end_end_end_end
+    400138: Util_end_end_end_end
+    400140: Head_end_end_end_end_end
+    400142: LeftFoot_end_end_end_end_end
+    400144: LeftHandIndex3_end_end_end_end_end
+    400146: LeftHandThumb3_end_end_end_end_end
+    400148: RightFoot_end_end_end_end_end
+    400150: RightHandIndex3_end_end_end_end_end
+    400152: RightHandThumb3_end_end_end_end_end
+    400154: Util_end_end_end_end_end
+    400156: Patient.002
     4300000: Patient
     4300002: Patient.001
+    4300004: Patient.002
     9500000: //RootNode
     13700000: Patient
     13700002: Patient.001
+    13700004: Patient.002
   materials:
     importMaterials: 1
     materialName: 0
